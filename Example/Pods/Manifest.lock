@@ -1,0 +1,16 @@
+PODS:
+  - ZJHProject (0.1.0)
+
+DEPENDENCIES:
+  - ZJHProject (from `../`)
+
+EXTERNAL SOURCES:
+  ZJHProject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJHProject: c9b4133b774d7c580f7e1d41428dd1257a7b441d
+
+PODFILE CHECKSUM: 68db25782dd5c0cf338435d0b5814e867d386931
+
+COCOAPODS: 1.5.0

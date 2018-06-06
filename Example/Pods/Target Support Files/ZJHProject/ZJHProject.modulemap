@@ -1,0 +1,6 @@
+framework module ZJHProject {
+  umbrella header "ZJHProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
